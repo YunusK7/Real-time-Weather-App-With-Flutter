@@ -49,7 +49,7 @@ class _HomePageState extends State<HomePage> {
     BaseOptions(
       baseUrl: 'https://api.openweathermap.org/data/2.5',
       queryParameters: {
-        "appid": 'fa809263a63988173347516a7a8de031',
+        "appid": '{Your API Key}',
         "lang": 'tr',
         "units": 'metric'
       },
